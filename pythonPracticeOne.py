@@ -4,4 +4,4 @@ def sum():
 	num3 = input()
 	return num1+num2+num3
 
-sum()
+print(sum())
